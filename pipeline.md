@@ -12,9 +12,12 @@ Pipelining is a technique used in computing and engineering to enhance the perfo
 
 ## OVERLAP OF PIPELINING
 ![OverLap of Pipelining](pipeline_stage.png)
+
 https://github.com/Syed-Amash-07/Computer-organisation/blob/5e29e4ac911a1b7cbfafff1100cd60d094ced974/pipeline_stage.png
+
 ## FIVE STAGES IN PIPELINING
 ![Five Stages in Pipelining](pipeline.png)
+
 https://github.com/Syed-Amash-07/Computer-organisation/blob/2fb135f422c4f235ea917e3105ee9056365fc026/pipeline.png
 
 
@@ -58,9 +61,11 @@ In a pipelined processor, instructions move through a sequence of stages, each s
    ![Instruction Pipeline](instruction.jpg)
 
 2. ### Arithmetic Pipeline :
-  An arithmetic pipeline divides an arithmetic problem into various sub problems for execution in various pipeline segments. It is used for floating point operations, multiplication and various other computations. The process or flowchart arithmetic pipeline for floating point addition is shown in the diagram.
+  An arithmetic pipeline divides an arithmetic problem into various sub problems for execution in various pipeline segments. 
+It is used for floating point operations, multiplication and various other computations. The process or flowchart arithmetic 
+pipeline for floating point addition is shown in the diagram.
 
-    ![Arithmetic Pipeline](arithmetic.jpg)
+![Arithmetic Pipeline](arithmetic.jpg)
 
 ## Benefits of pipelining:
 
