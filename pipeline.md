@@ -55,11 +55,8 @@ In a pipelined processor, instructions move through a sequence of stages, each s
 1. ### Instruction Pipeline:
    This is a fundamental concept in processor design. Instructions are divided into stages like fetch, decode, execute, and write-back, allowing multiple instructions to be processed simultaneously, improving performance.
 
-2. ### Compiler Pipeline:
-   In software development, a compiler typically goes through several stages, such as lexical analysis, parsing, semantic analysis, optimization, and code generation. Each stage transforms the source code into progressively more refined forms, leading to the final executable or intermediate representation.
-
-3. ### Data Processing Pipelines:
-   These pipelines process data through multiple stages, each performing a specific operation. For example, in data analytics, a pipeline might include stages for data ingestion, cleaning, transformation, analysis, and visualization.
+2. ### Arithmetic Pipeline :
+  An arithmetic pipeline divides an arithmetic problem into various sub problems for execution in various pipeline segments. It is used for floating point operations, multiplication and various other computations. The process or flowchart arithmetic pipeline for floating point addition is shown in the diagram.
 
 
 
