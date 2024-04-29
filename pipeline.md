@@ -12,7 +12,7 @@ Pipelining is a technique used in computing and engineering to enhance the perfo
 
 
 
-
+https://github.com/Syed-Amash-07/Computer-organisation/blob/2fb135f422c4f235ea917e3105ee9056365fc026/pipeline.png
 
 
 
