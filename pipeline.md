@@ -11,20 +11,10 @@ In the realm of computer science and digital architecture, efficiency is paramou
 Pipelining is a technique used in computing and engineering to enhance the performance of systems by breaking down tasks into smaller, independent stages that can be executed concurrently. This allows multiple tasks to be processed simultaneously, leading to increased throughput and reduced latency. In computer architecture, pipelining is commonly employed in processor design, where instructions are divided into stages such as fetch, decode, execute, and write-back. Each stage operates independently, and as one instruction progresses through the pipeline, another instruction can enter the pipeline, effectively overlapping the execution of multiple instructions.
 
 
-
+## FIVE STAGES IN PIPELINING
 https://github.com/Syed-Amash-07/Computer-organisation/blob/2fb135f422c4f235ea917e3105ee9056365fc026/pipeline.png
+## OVERLAP OF PIPELINING
 
-
-
-
-
-
-
-
-
-
-                  
-FIVE STAGES IN PIPELINING
 
 ## PIPELINING STAGES:
 
