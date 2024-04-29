@@ -55,10 +55,12 @@ In a pipelined processor, instructions move through a sequence of stages, each s
 1. ### Instruction Pipeline:
    This is a fundamental concept in processor design. Instructions are divided into stages like fetch, decode, execute, and write-back, allowing multiple instructions to be processed simultaneously, improving performance.
 
+   ![Instruction Pipeline](instruction.jpg)
+
 2. ### Arithmetic Pipeline :
   An arithmetic pipeline divides an arithmetic problem into various sub problems for execution in various pipeline segments. It is used for floating point operations, multiplication and various other computations. The process or flowchart arithmetic pipeline for floating point addition is shown in the diagram.
 
-
+    ![Arithmetic Pipeline](arithmetic.jpg)
 
 ## Benefits of pipelining:
 
